@@ -18,7 +18,7 @@ A trilha parte da formulação de algoritmos e chega à construção de um siste
 | 7 | [Sistema acadêmico](projetos/07-registros-integrador/README.md) | `struct`, vetores de registros, modularização e integração | 22 |
 | | **Total** | | **144** |
 
-Consulte o [plano do curso](docs/plano-do-curso.md), a [orientação PBL](docs/guia-pbl.md), o [sistema de avaliação](docs/avaliacao.md) e a [folha de apoio de C](materiais/linguagem-c.md).
+Consulte o [plano do curso](docs/plano-do-curso.md), a [orientação PBL](docs/guia-pbl.md), o [sistema de avaliação](docs/avaliacao.md), o [guia de entrega](docs/entrega.md) e a [folha de apoio de C](materiais/linguagem-c.md).
 
 ## Como estudar cada projeto
 
@@ -27,7 +27,7 @@ Consulte o [plano do curso](docs/plano-do-curso.md), a [orientação PBL](docs/g
 3. Escreva exemplos de entrada e saída e um algoritmo em Portugol.
 4. Faça uma primeira implementação em C.
 5. Teste casos normais, limites e entradas inválidas previstas no contrato.
-6. Revise em pares e entregue código, evidências de teste e retrospectiva.
+6. Revise em pares e entregue código, evidências de teste e retrospectiva no fork da equipe, conforme o [guia de entrega](docs/entrega.md).
 
 ## Ambiente
 

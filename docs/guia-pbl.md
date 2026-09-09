@@ -26,6 +26,8 @@ Os papéis rodam a cada incremento. Todo integrante precisa conseguir explicar o
 - tabela de testes com resultados esperados e obtidos;
 - retrospectiva curta e individual.
 
+Organização das pastas, ritmo de commits e prazos estão no [guia de entrega](entrega.md).
+
 ## Mediação docente
 
 Perguntas produtivas: “qual é o estado do programa neste ponto?”, “qual entrada derruba essa hipótese?”, “essas condições se sobrepõem?”, “o que se repete?” e “qual parte pode receber um nome e virar função?”. Use miniaulas quando a mesma necessidade aparecer em várias equipes.
