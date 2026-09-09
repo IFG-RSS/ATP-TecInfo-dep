@@ -4,7 +4,7 @@
 
 | Evidência | Peso |
 |---|---:|
-| projetos 1 a 6 | 45% |
+| projetos 0 a 6 | 45% |
 | desafios individuais de transferência | 20% |
 | projeto integrador | 25% |
 | diário, revisão e retrospectivas | 10% |

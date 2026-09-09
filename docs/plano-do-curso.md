@@ -2,7 +2,7 @@
 
 ## Alinhamento
 
-Este percurso operacionaliza o plano de ensino 2026/1 da disciplina DPAAIN.0142 (108 h/144 aulas). Atende à ementa de introdução à computação, algoritmos em Portugol e implementação em uma linguagem de programação, adotando C como linguagem de laboratório.
+Este percurso operacionaliza o plano de ensino 2026/2 da disciplina DPAAIN.0142 (108 h/144 aulas). Atende à ementa de introdução à computação, algoritmos em Portugol e implementação em uma linguagem de programação, adotando C como linguagem de laboratório.
 
 ## Objetivo geral
 

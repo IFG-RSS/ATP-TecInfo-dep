@@ -22,4 +22,4 @@ Qual laço expressa melhor cada contrato? Quais variáveis são contadores, acum
 
 Cada laço possui inicialização, condição de parada e progresso demonstráveis. O programa trata conjunto vazio, um elemento, empate nos extremos e limites das faixas.
 
-**Entrega:** quatro programas incrementais, testes de mesa de um laço e painel final. Desafio individual: adaptar os indicadores a alturas, com base em Farrer 1.12.2.
+**Entrega:** cinco programas incrementais, testes de mesa de um laço e painel final. Desafio individual: adaptar os indicadores a alturas, com base em Farrer 1.12.2.

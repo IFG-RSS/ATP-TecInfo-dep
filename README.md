@@ -42,6 +42,6 @@ Copie os arquivos de [modelos](modelos/) para iniciar uma atividade. Execute `ma
 
 ## Origem das atividades
 
-Os problemas são adaptações didáticas e contextualizadas das classes de exercícios de **Farrer et al., _Algoritmos Estruturados_, 3ª ed.** A referência de seção/exercício é indicada em cada projeto. Os enunciados não são transcrições do livro; contexto, restrições, entregas e critérios foram reformulados para PBL e C.
+Os problemas são adaptações didáticas e contextualizadas das classes de exercícios de **Farrer et al., _Algoritmos Estruturados_, 3ª ed.** A referência de seção/exercício é indicada em cada projeto e consolidada na [tabela de rastreabilidade](docs/rastreabilidade.md). Os enunciados não são transcrições do livro; contexto, restrições, entregas e critérios foram reformulados para PBL e C.
 
 O repositório [c_yt_course](https://github.com/rogerio-silva/c_yt_course) orientou a divisão temática e o uso de exemplos em C. Este material acrescenta encadeamento PBL, resultados de aprendizagem, testes e avaliação por evidências.
