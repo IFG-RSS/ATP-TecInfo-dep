@@ -45,3 +45,7 @@ Copie os arquivos de [modelos](modelos/) para iniciar uma atividade. Execute `ma
 Os problemas são adaptações didáticas e contextualizadas das classes de exercícios de **Farrer et al., _Algoritmos Estruturados_, 3ª ed.** A referência de seção/exercício é indicada em cada projeto e consolidada na [tabela de rastreabilidade](docs/rastreabilidade.md). Os enunciados não são transcrições do livro; contexto, restrições, entregas e critérios foram reformulados para PBL e C.
 
 O repositório [c_yt_course](https://github.com/rogerio-silva/c_yt_course) orientou a divisão temática e o uso de exemplos em C. Este material acrescenta encadeamento PBL, resultados de aprendizagem, testes e avaliação por evidências.
+
+## Licença
+
+Os textos didáticos (arquivos Markdown) estão sob [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA-4.0). O código-fonte (`.c`, `.h` e `Makefile`) está sob a [licença MIT](LICENSE-MIT). O arquivo [LICENSE](LICENSE) resume a divisão e a forma de atribuição.

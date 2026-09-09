@@ -1,0 +1,17 @@
+Copyright (c) 2026 Rogério S. Silva
+
+Este repositório usa duas licenças, conforme o tipo de arquivo:
+
+1. Textos didáticos (arquivos .md: enunciados, documentos e materiais de apoio)
+   Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional
+   (CC BY-NC-SA 4.0).
+   Texto completo: LICENSE-CC-BY-NC-SA-4.0
+   Resumo em português: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br
+
+2. Código-fonte (arquivos .c, .h e Makefile)
+   Licença MIT.
+   Texto completo: LICENSE-MIT
+
+Atribuição sugerida para os textos:
+"Algoritmos e Técnicas de Programação com C", Rogério S. Silva, IFG – Câmpus
+Inhumas, 2026, CC BY-NC-SA 4.0, https://github.com/IFG-RSS/ATP-TecInfo-dep

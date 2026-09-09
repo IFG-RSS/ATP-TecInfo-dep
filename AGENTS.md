@@ -14,6 +14,7 @@ O projeto contém material PBL em Markdown, modelos em C17 e oito projetos progr
 - Não adicione dependências, arquivos gerados ou configurações de ferramentas sem necessidade demonstrável.
 - Nunca inclua credenciais, tokens, segredos ou dados pessoais no repositório.
 - Enunciados inspirados em obras bibliográficas devem ser adaptações autorais com rastreabilidade; não copie longos trechos protegidos.
+- Textos em Markdown ficam sob CC BY-NC-SA 4.0 e código (`.c`, `.h`, `Makefile`) sob MIT; novos arquivos seguem essa divisão e não incorporam material com licença incompatível.
 - Exemplos em C devem ser compatíveis com C17 e acessíveis a estudantes iniciantes.
 
 ## Validação
