@@ -49,3 +49,18 @@ Vetores começam no índice zero. Para `n` elementos, os índices válidos vão 
 - proteja divisões contra zero;
 - respeite limites de vetores e textos;
 - teste o menor e o maior valor permitido.
+
+## Materiais por assunto
+
+Esta folha é um resumo. Para explicações e exemplos completos, consulte o material de cada projeto, na ordem sugerida pelo [guia de avanço](../docs/guia-de-avanco.md):
+
+| Assunto | Material |
+|---|---|
+| algoritmos, Portugol e teste de mesa | [0 — Pensar como quem programa](00-pensamento-algoritmico.md) |
+| tipos, variáveis, expressões, entrada e saída | [1 — Sequência e expressões](01-sequencia-e-expressoes.md) |
+| `if`, `else`, `switch` | [2 — Decisões](02-decisoes.md) |
+| `while`, `do while`, `for` | [3 — Repetições](03-repeticoes.md) |
+| funções, `.h`/`.c` e `assert` | [4 — Funções](04-funcoes.md) |
+| vetores, busca, ordenação e strings | [5 — Vetores e strings](05-vetores-e-strings.md) |
+| matrizes | [6 — Matrizes](06-matrizes.md) |
+| `struct`, camadas e testes do sistema | [7 — Registros e sistema modular](07-registros-integrador.md) |

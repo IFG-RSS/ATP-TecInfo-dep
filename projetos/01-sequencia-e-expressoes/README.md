@@ -2,6 +2,8 @@
 
 **Duração:** 18 aulas. **Base:** Farrer 1.1–1.9 e problemas sequenciais que antecedem 1.12.
 
+**Estude com:** [Material 1 — Sequência e expressões](../../materiais/01-sequencia-e-expressoes.md). **Ritmo sugerido:** [aulas 9–26 no guia de avanço](../../docs/guia-de-avanco.md#projeto-1).
+
 ## Situação-problema
 
 A cantina estudantil registra vendas manualmente. Ela precisa de um programa que calcule subtotal, desconto previamente informado, valor final e troco, sem decidir ainda quem recebe desconto.

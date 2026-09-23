@@ -4,7 +4,7 @@
 
 Este repositório pertence à disciplina de dependência em ATP do curso Técnico Integrado em Informática para a Internet do IFG – Câmpus Inhumas.
 
-O projeto contém material PBL em Markdown, modelos em C17 e oito projetos progressivos. Preserve a coerência entre `README.md`, `docs/plano-do-curso.md` e as cargas horárias declaradas nos projetos.
+O projeto contém material PBL em Markdown, modelos em C17, oito projetos progressivos e um material de estudo por projeto em `materiais/`. Preserve a coerência entre `README.md`, `docs/plano-do-curso.md`, `docs/guia-de-avanco.md` (intervalos de aulas por projeto) e as cargas horárias declaradas nos projetos.
 
 ## Diretrizes de trabalho
 
@@ -16,6 +16,7 @@ O projeto contém material PBL em Markdown, modelos em C17 e oito projetos progr
 - Enunciados inspirados em obras bibliográficas devem ser adaptações autorais com rastreabilidade; não copie longos trechos protegidos.
 - Textos em Markdown ficam sob CC BY-NC-SA 4.0 e código (`.c`, `.h`, `Makefile`) sob MIT; novos arquivos seguem essa divisão e não incorporam material com licença incompatível.
 - Exemplos em C devem ser compatíveis com C17 e acessíveis a estudantes iniciantes.
+- Os exemplos dos materiais usam contextos diferentes dos enunciados dos projetos, para ensinar a técnica sem entregar a solução; blocos de código completos devem compilar sem avisos com as opções do curso.
 
 ## Validação
 

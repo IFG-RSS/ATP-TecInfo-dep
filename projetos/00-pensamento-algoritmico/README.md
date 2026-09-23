@@ -2,6 +2,8 @@
 
 **Duração:** 8 aulas. **Base:** Farrer, cap. 0, seção 0.3 e exercícios de fixação 0.3.2/0.3.4.
 
+**Estude com:** [Material 0 — Pensar como quem programa](../../materiais/00-pensamento-algoritmico.md). **Ritmo sugerido:** [aulas 1–8 no guia de avanço](../../docs/guia-de-avanco.md#projeto-0).
+
 ## Situação-problema
 
 A escola precisa ensinar uma pessoa recém-chegada a usar o laboratório e preparar uma sequência de valores sem depender de conhecimento implícito. Como escrever instruções que destinatários diferentes executem e produzam o mesmo resultado?

@@ -36,6 +36,8 @@ Ao final, o estudante deverá ser capaz de:
 | M6 | mapa de ocupação com matrizes |
 | M7 | sistema acadêmico modular com registros |
 
+O [guia de avanço](guia-de-avanco.md) distribui as aulas por projeto e incremento e lista, para cada marco, os critérios para avançar. Cada projeto tem um [material de estudo](../materiais/00-pensamento-algoritmico.md) correspondente na pasta `materiais/`.
+
 Cada bloco de quatro aulas pode reservar uma aula para lançamento/investigação, uma para oficina e planejamento, uma para implementação e uma para testes/revisão. Projetos maiores repetem o ciclo em incrementos.
 
 Ponteiros avançados, alocação dinâmica, arquivos, recursão e algoritmos avançados não são pré-requisitos; podem aparecer como extensões.

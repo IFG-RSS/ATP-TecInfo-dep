@@ -2,6 +2,8 @@
 
 **Duração:** 24 aulas. **Base:** Farrer 1.11; adaptações de 1.12.2, 1.12.4, 1.12.6, 1.12.7 e 1.12.12.
 
+**Estude com:** [Material 3 — Repetições](../../materiais/03-repeticoes.md). **Ritmo sugerido:** [aulas 45–68 no guia de avanço](../../docs/guia-de-avanco.md#projeto-3).
+
 ## Situação-problema
 
 A coordenação recebe registros um por vez e precisa produzir indicadores sem saber antecipadamente quantos registros chegarão. O grupo construirá o núcleo de um painel textual.

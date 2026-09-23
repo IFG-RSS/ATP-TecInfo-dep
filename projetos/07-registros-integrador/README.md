@@ -2,6 +2,8 @@
 
 **Duração:** 22 aulas. **Base:** Farrer 2.3 e 2.5.3; adaptações de 2.5.3.1–2.5.3.8 e integração do problema 1.12.12.
 
+**Estude com:** [Material 7 — Registros e sistema modular](../../materiais/07-registros-integrador.md). **Ritmo sugerido:** [aulas 123–144 no guia de avanço](../../docs/guia-de-avanco.md#projeto-7).
+
 ## Situação-problema
 
 Vetores paralelos tornam difícil garantir que nome, matrícula, notas e frequência continuem associados. A coordenação encomenda um protótipo em memória para cadastrar estudantes, calcular situações e emitir relatórios.

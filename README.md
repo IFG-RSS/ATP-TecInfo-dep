@@ -6,28 +6,31 @@ A trilha parte da formulação de algoritmos e chega à construção de um siste
 
 ## Percurso de aprendizagem
 
-| Etapa | Projeto | Conhecimentos centrais | Aulas |
-|---|---|---|---:|
-| 0 | [Pensar como quem programa](projetos/00-pensamento-algoritmico/README.md) | informação, processamento, hardware/software, algoritmos e refinamento | 8 |
-| 1 | [Cantina sem calculadora](projetos/01-sequencia-e-expressoes/README.md) | C básico, tipos, variáveis, constantes, expressões, entrada e saída | 18 |
-| 2 | [Triagem de bolsas](projetos/02-decisoes/README.md) | operadores relacionais/lógicos, `if`, `else` e `switch` | 18 |
-| 3 | [Painel de indicadores](projetos/03-repeticoes/README.md) | contadores, acumuladores, sentinelas, `while`, `do while` e `for` | 24 |
-| 4 | [Caixa de ferramentas](projetos/04-funcoes/README.md) | decomposição, funções, parâmetros, retorno, escopo e testes | 16 |
-| 5 | [Analisador de turma](projetos/05-vetores-e-strings/README.md) | vetores, busca, agregação, ordenação introdutória e strings | 22 |
-| 6 | [Mapa de ocupação](projetos/06-matrizes/README.md) | matrizes, percursos, agregações e tabelas | 16 |
-| 7 | [Sistema acadêmico](projetos/07-registros-integrador/README.md) | `struct`, vetores de registros, modularização e integração | 22 |
-| | **Total** | | **144** |
+| Etapa | Projeto | Material de estudo | Conhecimentos centrais | Aulas |
+|---|---|---|---|---:|
+| 0 | [Pensar como quem programa](projetos/00-pensamento-algoritmico/README.md) | [Material 0](materiais/00-pensamento-algoritmico.md) | informação, processamento, hardware/software, algoritmos e refinamento | 8 |
+| 1 | [Cantina sem calculadora](projetos/01-sequencia-e-expressoes/README.md) | [Material 1](materiais/01-sequencia-e-expressoes.md) | C básico, tipos, variáveis, constantes, expressões, entrada e saída | 18 |
+| 2 | [Triagem de bolsas](projetos/02-decisoes/README.md) | [Material 2](materiais/02-decisoes.md) | operadores relacionais/lógicos, `if`, `else` e `switch` | 18 |
+| 3 | [Painel de indicadores](projetos/03-repeticoes/README.md) | [Material 3](materiais/03-repeticoes.md) | contadores, acumuladores, sentinelas, `while`, `do while` e `for` | 24 |
+| 4 | [Caixa de ferramentas](projetos/04-funcoes/README.md) | [Material 4](materiais/04-funcoes.md) | decomposição, funções, parâmetros, retorno, escopo e testes | 16 |
+| 5 | [Analisador de turma](projetos/05-vetores-e-strings/README.md) | [Material 5](materiais/05-vetores-e-strings.md) | vetores, busca, agregação, ordenação introdutória e strings | 22 |
+| 6 | [Mapa de ocupação](projetos/06-matrizes/README.md) | [Material 6](materiais/06-matrizes.md) | matrizes, percursos, agregações e tabelas | 16 |
+| 7 | [Sistema acadêmico](projetos/07-registros-integrador/README.md) | [Material 7](materiais/07-registros-integrador.md) | `struct`, vetores de registros, modularização e integração | 22 |
+| | **Total** | | | **144** |
 
-Consulte o [plano do curso](docs/plano-do-curso.md), a [orientação PBL](docs/guia-pbl.md), o [sistema de avaliação](docs/avaliacao.md), o [guia de entrega](docs/entrega.md) e a [folha de apoio de C](materiais/linguagem-c.md).
+Cada material de estudo explica o assunto do projeto e traz exemplos em C compilados e executados; os exemplos usam contextos diferentes dos enunciados, para ensinar a técnica sem entregar a solução. O [guia de avanço](docs/guia-de-avanco.md) distribui as aulas, indica as leituras de cada incremento e lista os critérios para passar ao projeto seguinte.
+
+Consulte também o [plano do curso](docs/plano-do-curso.md), a [orientação PBL](docs/guia-pbl.md), o [sistema de avaliação](docs/avaliacao.md), o [guia de entrega](docs/entrega.md) e a [folha de apoio de C](materiais/linguagem-c.md).
 
 ## Como estudar cada projeto
 
 1. Leia o cenário sem procurar imediatamente uma solução pronta.
 2. Registre em `diario.md`: **o que sabemos**, **o que precisamos saber** e **como investigar**.
-3. Escreva exemplos de entrada e saída e um algoritmo em Portugol.
-4. Faça uma primeira implementação em C.
-5. Teste casos normais, limites e entradas inválidas previstas no contrato.
-6. Revise em pares e entregue código, evidências de teste e retrospectiva no fork da equipe, conforme o [guia de entrega](docs/entrega.md).
+3. Estude no material do projeto as seções indicadas no [guia de avanço](docs/guia-de-avanco.md) e experimente os exemplos.
+4. Escreva exemplos de entrada e saída e um algoritmo em Portugol.
+5. Faça uma primeira implementação em C.
+6. Teste casos normais, limites e entradas inválidas previstas no contrato.
+7. Revise em pares e entregue código, evidências de teste e retrospectiva no fork da equipe, conforme o [guia de entrega](docs/entrega.md).
 
 ## Ambiente
 

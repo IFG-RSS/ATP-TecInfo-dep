@@ -2,6 +2,8 @@
 
 **Duração:** 16 aulas. **Base:** Farrer 2.2.2; adaptações de 2.5.2.2–2.5.2.7 e 2.5.2.9.
 
+**Estude com:** [Material 6 — Matrizes](../../materiais/06-matrizes.md). **Ritmo sugerido:** [aulas 107–122 no guia de avanço](../../docs/guia-de-avanco.md#projeto-6).
+
 ## Situação-problema
 
 A escola quer visualizar a ocupação dos laboratórios ao longo dos horários. Uma matriz armazena, por linha, um laboratório e, por coluna, um horário; cada célula contém a quantidade de estudantes.

@@ -2,6 +2,8 @@
 
 **Duração:** 18 aulas. **Base:** Farrer 1.10; a classificação por faixas prepara os problemas 1.12.4 e 1.12.12.
 
+**Estude com:** [Material 2 — Decisões](../../materiais/02-decisoes.md). **Ritmo sugerido:** [aulas 27–44 no guia de avanço](../../docs/guia-de-avanco.md#projeto-2).
+
 ## Situação-problema
 
 Uma comissão precisa aplicar regras públicas de prioridade sem produzir classificações contraditórias. O programa recebe renda por pessoa, frequência, situação documental e modalidade, e emite decisão e justificativa.

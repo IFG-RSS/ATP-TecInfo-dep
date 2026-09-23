@@ -2,6 +2,8 @@
 
 **Duração:** 22 aulas. **Base:** Farrer 2.2.1; adaptações de 2.5.1.3–2.5.1.6, 2.5.1.8–2.5.1.11.
 
+**Estude com:** [Material 5 — Vetores e strings](../../materiais/05-vetores-e-strings.md). **Ritmo sugerido:** [aulas 85–106 no guia de avanço](../../docs/guia-de-avanco.md#projeto-5).
+
 ## Situação-problema
 
 Para comparar resultados e localizar estudantes, o painel precisa manter uma coleção em memória. Nesta etapa, use vetores paralelos de matrícula e nota; registros virão depois.

@@ -2,6 +2,8 @@
 
 **Duração:** 16 aulas. **Base:** Farrer, cap. 3 (sub-rotinas, funções e modularização).
 
+**Estude com:** [Material 4 — Funções](../../materiais/04-funcoes.md). **Ritmo sugerido:** [aulas 69–84 no guia de avanço](../../docs/guia-de-avanco.md#projeto-4).
+
 ## Situação-problema
 
 Os programas anteriores repetem validações e cálculos. A turma criará uma pequena biblioteca reutilizável e demonstrará que cada função cumpre seu contrato isoladamente.
